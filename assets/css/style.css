@@ -675,7 +675,7 @@ a, .btn, img {
 	background: rgba(127, 152, 173, 0.47);
 	padding: 30px 20px;
 	text-align: center;
-	width: 380px;
+	/* width: 380px; */
 	margin: 0 auto;
 }
 @media (max-width: 767px) {
